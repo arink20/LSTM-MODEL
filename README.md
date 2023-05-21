@@ -1,1 +1,3 @@
-# LSTM-MODEL
+# Stamatics-Summer-Project-2022
+
+Assignment - 1
